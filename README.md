@@ -5,7 +5,9 @@ Built entirely in **Flutter** with **zero external packages** — pure Dart from
 
 ## Demo
 
-![Demo](preview/demo.gif)
+<p align="center">
+  <img src="preview/demo.gif" width="500">
+</p>
 
 ---
 
