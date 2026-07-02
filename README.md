@@ -6,7 +6,7 @@ Built entirely in **Flutter** with **zero external packages** — pure Dart from
 ## Demo
 
 <p align="center">
-https://github.com/user-attachments/assets/2587e7ab-69aa-458b-a33f-853fb08f0181
+  <video src="https://github.com/user-attachments/assets/2587e7ab-69aa-458b-a33f-853fb08f0181" autoplay loop muted playsinline width="500"></video>
 </p>
 
 ---
