@@ -6,7 +6,7 @@ Built entirely in **Flutter** with **zero external packages** — pure Dart from
 ## Demo
 
 <p align="center">
-  <img src="preview/demo.gif" width="500">
+https://github.com/user-attachments/assets/2587e7ab-69aa-458b-a33f-853fb08f0181
 </p>
 
 ---
