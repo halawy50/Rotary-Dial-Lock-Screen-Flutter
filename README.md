@@ -5,10 +5,7 @@ Built entirely in **Flutter** with **zero external packages** — pure Dart from
 
 ## Demo
 
-https://github.com/user/rotary-lock-flutter/assets/preview/demo.mp4
-
-> Replace the link above with your actual GitHub video URL after uploading to the repo.
-> The video file is located at `preview/demo.mp4`.
+<video src="https://github.com/halawy50/Rotary-Dial-Lock-Screen-Flutter/raw/main/preview/demo.mp4" autoplay loop muted playsinline width="300"></video>
 
 ---
 
